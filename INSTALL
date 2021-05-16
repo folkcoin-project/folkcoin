@@ -1,0 +1,9 @@
+Building Folkcoin
+
+See doc/readme-qt.rst for instructions on building Folkcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Folkcoin.
+
+See doc/build-*.txt for instructions on building folkcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Folkcoin.
